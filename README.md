@@ -1,8 +1,8 @@
-#Human Activity Recognition (HAR) using Deep Learning
+# Human Activity Recognition (HAR) using Deep Learning
 
 This repository contains a deep learning-based human activity recognition (HAR) model implemented using PyTorch, integrated with a Streamlit web application for image-based activity prediction. The model can classify various human activities from input images and is designed to be lightweight and easy to use.
 
-#Features
+# Features
 
 Pre-trained Deep Learning Model: Uses a PyTorch model to predict human activities from uploaded images.
 
@@ -12,9 +12,9 @@ Customizable Architecture: Easily adaptable to other deep learning architectures
 
 Image Processing Pipeline: Resizes and normalizes images for compatibility with the model.
 
-#Getting Started
+# Getting Started
 
-#Prerequisites
+# Prerequisites
 
 Python 3.8 or higher
 
